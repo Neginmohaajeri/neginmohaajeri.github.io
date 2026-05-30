@@ -15,7 +15,8 @@ profile:
     <p style="text-align: center;">
     <p><a href="https://www.linkedin.com/in/neginmohajeri/" target="_blank">
     <i class="fab fa-linkedin"></i> LinkedIn</a></p>
-    
+
+---    
 <style>
 .profile.float-left {
   margin-left: -80px;
