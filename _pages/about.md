@@ -15,16 +15,7 @@ profile:
     <p style="text-align: center;">
     <p><a href="https://www.linkedin.com/in/neginmohajeri/" target="_blank">
     <i class="fab fa-linkedin"></i> LinkedIn</a></p>
-
----    
-<style>
-.profile.float-left {
-  margin-left: -80px;
-  margin-right: 40px;
-}
-</style>
     
-
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 
@@ -43,6 +34,14 @@ latest_posts:
 
 MIXED-SIGNAL CIRCUIT DESIGN - AI HARDWARE
 {: .keywords}
+
+---
+<style>
+.profile.float-left {
+  margin-left: -80px;
+  margin-right: 40px;
+}
+</style>
 
 
 <!-- Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
