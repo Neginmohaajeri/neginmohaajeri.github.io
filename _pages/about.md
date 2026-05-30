@@ -12,7 +12,7 @@ profile:
     <!-- <p>314 Knowles Engineering Building</p>
     <p>151 Holdsworth Way</p>
     <p>Amherst, MA 01003</p> -->
-    <div style="width: 220px; text-align: center; margin-top: 15px;">
+    <div style="width: 250px; text-align: center; margin-top: 15px;">
       <a href="https://www.linkedin.com/in/neginmohajeri/" target="_blank">
         <i class="fab fa-linkedin"></i> LinkedIn
       </a>
