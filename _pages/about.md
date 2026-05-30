@@ -12,6 +12,7 @@ profile:
     <!-- <p>314 Knowles Engineering Building</p>
     <p>151 Holdsworth Way</p>
     <p>Amherst, MA 01003</p> -->
+    <p style="text-align: center;">
     <p><a href="https://www.linkedin.com/in/neginmohajeri/" target="_blank">
     <i class="fab fa-linkedin"></i> LinkedIn</a></p>
 
@@ -29,7 +30,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-> I'm a PhD Research Assistant in Electrical and Computer Engineering at the University of Massachusetss Amherst. I'm interested in designing efficient and low-power mixed-signal circuits for scalable AI hardware.
+> I'm a PhD Research Assistant in Electrical and Computer Engineering at the University of Massachusetss Amherst. My research focuses on designing efficient and low-power mixed-signal circuits for scalable AI hardware.
 
 MIXED-SIGNAL CIRCUIT DESIGN, AI HARDWARE
 {: .Keywords}
