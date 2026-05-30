@@ -1,189 +1,189 @@
-cv:
-  name: 
-  label: 
-  email: 
-  location: 
-  image: ""
-  summary: 
+# cv:
+#   name: 
+#   label: 
+#   email: 
+#   location: 
+#   image: ""
+#   summary: 
 
-  social_networks:
-    - network: 
-      username: 
-    - network: 
-      username: 
-    - network: 
-      username: 
+#   social_networks:
+#     - network: 
+#       username: 
+#     - network: 
+#       username: 
+#     - network: 
+#       username: 
 
-  address:
-    street: 
-    city: 
-    region: 
-    postalCode: 
-    countryCode: 
+#   address:
+#     street: 
+#     city: 
+#     region: 
+#     postalCode: 
+#     countryCode: 
 
-  sections:
-    Education:
-      - institution: 
-        location: 
-        url: 
-        area: 
-        studyType: 
-        start_date: 
-        end_date: 
-        score: ""
-        courses: 
-        highlights:
-          -
-          -
+#   sections:
+#     Education:
+#       - institution: 
+#         location: 
+#         url: 
+#         area: 
+#         studyType: 
+#         start_date: 
+#         end_date: 
+#         score: ""
+#         courses: 
+#         highlights:
+#           -
+#           -
 
-      - institution: 
-        location: 
-        area: 
-        studyType: 
-        start_date: 
-        end_date: 
-        highlights:
-          - 
-          - 
+#       - institution: 
+#         location: 
+#         area: 
+#         studyType: 
+#         start_date: 
+#         end_date: 
+#         highlights:
+#           - 
+#           - 
 
-    Experience:
-      - company: 
-        position: 
-        location: 
-        start_date: 
-        end_date: 
-        summary: 
-        highlights:
-          - 
-          - 
+#     Experience:
+#       - company: 
+#         position: 
+#         location: 
+#         start_date: 
+#         end_date: 
+#         summary: 
+#         highlights:
+#           - 
+#           - 
 
-      - company: 
-        position:
-        location: 
-        start_date: 
-        end_date: 
-        highlights:
-          - 
-          - 
+#       - company: 
+#         position:
+#         location: 
+#         start_date: 
+#         end_date: 
+#         highlights:
+#           - 
+#           - 
 
-      - company: 
-        position:
-        location: 
-        start_date: 
-        end_date: 
+#       - company: 
+#         position:
+#         location: 
+#         start_date: 
+#         end_date: 
 
-      - company: 
-        position: 
-        location: 
-        start_date: 
-        end_date: 
+#       - company: 
+#         position: 
+#         location: 
+#         start_date: 
+#         end_date: 
 
-      - company: 
-        position: 
-        location: 
-        start_date: 
-        end_date: 
+#       - company: 
+#         position: 
+#         location: 
+#         start_date: 
+#         end_date: 
 
-    Volunteer:
-      - company: 
-        position: 
-        location: 
-        start_date: 
-        end_date: 
-        summary: 
-        highlights:
-          - 
-          - 
+#     Volunteer:
+#       - company: 
+#         position: 
+#         location: 
+#         start_date: 
+#         end_date: 
+#         summary: 
+#         highlights:
+#           - 
+#           - 
 
-    Awards:
-      - title: 
-        authors:
-          - 
-        date: 
-        awarder:
-        url: 
-        summary: 
+#     Awards:
+#       - title: 
+#         authors:
+#           - 
+#         date: 
+#         awarder:
+#         url: 
+#         summary: 
 
-      - title: 
-        authors:
-          - 
-        date:
-        awarder: 
-        summary: 
+#       - title: 
+#         authors:
+#           - 
+#         date:
+#         awarder: 
+#         summary: 
 
-    Publications:
-      - title: 
-        authors:
-          - 
-        publisher: 
-        releaseDate: 
-        url:
-        summary:
+#     Publications:
+#       - title: 
+#         authors:
+#           - 
+#         publisher: 
+#         releaseDate: 
+#         url:
+#         summary:
 
-      - title: 
-        authors:
-          - 
-        publisher: 
-        releaseDate: 
-        url:
-        summary:
+#       - title: 
+#         authors:
+#           - 
+#         publisher: 
+#         releaseDate: 
+#         url:
+#         summary:
 
-      - title: 
-        authors:
-          -
-        publisher: 
-        releaseDate: 
-        url: 
-        summary: 
+#       - title: 
+#         authors:
+#           -
+#         publisher: 
+#         releaseDate: 
+#         url: 
+#         summary: 
 
-    Skills:
-      - name: 
-        level: 
-        icon: 
-        keywords: 
+#     Skills:
+#       - name: 
+#         level: 
+#         icon: 
+#         keywords: 
 
-    Languages:
-      - name: 
-        summary: 
+#     Languages:
+#       - name: 
+#         summary: 
 
-      - name: 
-        summary: 
+#       - name: 
+#         summary: 
 
-    Interests:
-      - name: 
-        icon: 
-        keywords: 
+#     Interests:
+#       - name: 
+#         icon: 
+#         keywords: 
 
-    Certificates:
-      - name: 
-        date: 
-        issuer: 
-        icon: 
+#     Certificates:
+#       - name: 
+#         date: 
+#         issuer: 
+#         icon: 
 
-      - name: 
-        date: 
-        issuer: 
-        icon: 
+#       - name: 
+#         date: 
+#         issuer: 
+#         icon: 
 
-      - name: 
-        date: 
-        issuer: 
-        icon: 
+#       - name: 
+#         date: 
+#         issuer: 
+#         icon: 
 
-    Projects:
-      - name:
-        summary: 
-        highlights:
-          - 
-          - 
-        start_date:
-        end_date:
+#     Projects:
+#       - name:
+#         summary: 
+#         highlights:
+#           - 
+#           - 
+#         start_date:
+#         end_date:
 
-    References:
-      - name:
-        icon: 
-        reference: 
+#     References:
+#       - name:
+#         icon: 
+#         reference: 
 
-      - name: 
-        icon: 
-        reference: 
+#       - name: 
+#         icon: 
+#         reference: 
