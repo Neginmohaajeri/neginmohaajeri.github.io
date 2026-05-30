@@ -15,6 +15,14 @@ profile:
     <p style="text-align: center;">
     <p><a href="https://www.linkedin.com/in/neginmohajeri/" target="_blank">
     <i class="fab fa-linkedin"></i> LinkedIn</a></p>
+    
+<style>
+.profile.float-left {
+  margin-left: -80px;
+  margin-right: 40px;
+}
+</style>
+    
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
