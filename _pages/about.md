@@ -39,7 +39,12 @@ MIXED-SIGNAL CIRCUIT DESIGN - AI HARDWARE
 
 ---
 <style>
-.profile img {
+.profile.float-lift {
+  width: 250x;
+  text-align: center;
+}
+  
+.profile.float-left img {
   width: 220px;
   height: 220px;
   object-fit: cover;
@@ -48,9 +53,12 @@ MIXED-SIGNAL CIRCUIT DESIGN - AI HARDWARE
   margin-right: auto;
 }
   
-.profile.float-left {
-  margin-left: -350px;
-  margin-right: 60px;
+.profile.float-left.more-info,
+.profile.float-left div {
+  width; 250x;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .post {
