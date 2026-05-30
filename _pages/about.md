@@ -9,9 +9,9 @@ profile:
   image: prof_pic.jpg
   image_circular: true # crops the image to make it circular
   more_info: >
-    <p>314 Knowles Engineering Building</p>
+    <!-- <p>314 Knowles Engineering Building</p>
     <p>151 Holdsworth Way</p>
-    <p>Amherst, MA 01003</p>
+    <p>Amherst, MA 01003</p> -->
     <p><a href="https://www.linkedin.com/in/neginmohajeri/" target="_blank">
     <i class="fab fa-linkedin"></i> LinkedIn</a></p>
 
