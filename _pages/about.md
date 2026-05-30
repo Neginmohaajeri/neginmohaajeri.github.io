@@ -12,9 +12,11 @@ profile:
     <!-- <p>314 Knowles Engineering Building</p>
     <p>151 Holdsworth Way</p>
     <p>Amherst, MA 01003</p> -->
-    <p style="text-align: center;">
-    <p><a href="https://www.linkedin.com/in/neginmohajeri/" target="_blank">
-    <i class="fab fa-linkedin"></i> LinkedIn</a></p>
+    <div style="text-align: center; margin-top: 15px;">
+      <a href="https://www.linkedin.com/in/neginmohajeri/" target="_blank">
+        <i class="fab fa-linkedin"></i> LinkedIn
+      </a>
+    </div>
     
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
