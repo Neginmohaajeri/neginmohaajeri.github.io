@@ -25,15 +25,15 @@ announcements:
   limit: 5 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: true
+  enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
 
 > I'm a PhD Research Assistant in Electrical and Computer Engineering at the University of Massachusetss Amherst. My research focuses on designing efficient and low-power mixed-signal circuits for scalable AI hardware.
 
-MIXED-SIGNAL CIRCUIT DESIGN, AI HARDWARE
-{: .Keywords}
+MIXED-SIGNAL CIRCUIT DESIGN - AI HARDWARE
+{: .keywords}
 
 
 <!-- Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
