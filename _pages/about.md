@@ -54,10 +54,8 @@ MIXED-SIGNAL CIRCUIT DESIGN - AI HARDWARE
 }
   
 .linkedin-center {
-  width: 220px;
-  display: flex;
-  justify-content: center;
-  align-items: center;
+  width: 100%;
+  text-align: center;
   margin-top: 15px;
 }
 
