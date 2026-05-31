@@ -12,7 +12,7 @@ profile:
     <!-- <p>314 Knowles Engineering Building</p>
     <p>151 Holdsworth Way</p>
     <p>Amherst, MA 01003</p> -->
-    <div style="width: 250px; text-align: center; margin-top: 15px; margin-left: -25px;">
+    <div class = "linkedin-center">
       <a href="https://www.linkedin.com/in/neginmohajeri/" target="_blank">
         <i class="fab fa-linkedin"></i> LinkedIn
       </a>
@@ -40,7 +40,7 @@ MIXED-SIGNAL CIRCUIT DESIGN - AI HARDWARE
 ---
 <style>
 .profile.float-left {
-  width: 250px;
+  width: 220px;
   text-align: center;
 }
   
@@ -53,12 +53,12 @@ MIXED-SIGNAL CIRCUIT DESIGN - AI HARDWARE
   margin-right: auto;
 }
   
-.profile.float-left.more-info,
-.profile.float-left div {
-  width: 250px;
-  text-align: center;
-  margin-left: auto;
-  margin-right: auto;
+.linkedin-center {
+  width: 220px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 15px;
 }
 
 .post {
