@@ -64,6 +64,15 @@ MIXED-SIGNAL CIRCUIT DESIGN - AI HARDWARE
 .post {
   max-width: 1200px;
 }
+
+.clearfix,
+.publications, {
+  background-color: #380603;
+  padding: 24px 28px;
+  border-radius: 12px;
+  margin-top: 30px;
+}
+  
 </style>
 
 
