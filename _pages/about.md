@@ -32,7 +32,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-> I'm a PhD Research Assistant in Electrical and Computer Engineering at the University of Massachusetss Amherst. My research focuses on designing efficient and low-power mixed-signal circuits for scalable AI hardware.
+> I'm a PhD Research Assistant in Electrical and Computer Engineering at the University of Massachusetss Amherst, advised by Professor Wayne Burleson. My research focuses on designing efficient and low-power mixed-signal circuits for scalable AI hardware.
 
 MIXED-SIGNAL CIRCUIT DESIGN - AI HARDWARE
 {: .keywords}
