@@ -67,7 +67,7 @@ MIXED-SIGNAL CIRCUIT DESIGN - AI HARDWARE
 
 .clearfix,
 .publications {
-  background-color: #380603;
+  background-color: rgba(150, 55, 55, 0.3);
   padding: 24px 28px;
   border-radius: 12px;
   margin-top: 30px;
