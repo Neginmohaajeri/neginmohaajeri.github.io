@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Started my PhD at Umass Amherst 🎉
+Started my PhD at Umass Amherst 🎉  <img src="{{ '/assets/img/umass_logo.png' | relative_url }}" alt="UMass Amherst" style="height: 35px; float: right; margin-left: 25px;">
