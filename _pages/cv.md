@@ -1,12 +1,16 @@
 ---
-layout: cv
-permalink: /cv/
+layout: page
 title: CV
+permalink: /cv/
 nav: true
 nav_order: 5
-cv_pdf: /assets/pdf/Negin_Mohajeri_Resume.pdf # you can also use external links here
-cv_format: rendercv # options: rendercv, jsonresume
-description: You can download my CV by clicking the PDF button on this page.
-toc:
-  sidebar: left
+description: My curriculum vitae.
 ---
+
+<div class="text-center mb-4">
+  <a href="{{ '/assets/pdf/Negin_Mohajeri_Resume.pdf' | relative_url }}" class="btn btn-sm z-depth-0" role="button" target="_blank" rel="noopener noreferrer">
+    <i class="fas fa-file-pdf"></i> Download PDF
+  </a>
+</div>
+
+<iframe src="{{ '/assets/pdf/Negin_Mohajeri_Resume.pdf' | relative_url }}" width="100%" height="900px" style="border: none;" title="CV"></iframe>
